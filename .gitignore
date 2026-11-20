@@ -1,0 +1,15 @@
+build/
+out/
+dist/
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.dll
+*.lib
+*.exp
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.vscode/
+.idea/
